@@ -1,0 +1,116 @@
+> res <- etas(proj$X, proj$win, tperiod, m0=4.5, param0=param01, no.itr=1)
+	number of events:  3775 
+	number of target events:  2762 
+	[tstart, tend]: 	[ 0 ,  40329 ] 
+	tstart2:  25000 	tlength 40329 
+	magnitude threshold:  4.5 
+iteration:  1 
+======================================================
+background seismicity rate:
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+4.100e-07 1.246e-03 3.837e-03 8.569e-03 1.085e-02 9.367e-02 
+probability of being a background event:
+     Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+0.0000028 0.0642200 0.8598000 0.6101000 0.9731000 1.0000000 
+integral of background seismicity rate:  3644.432 
+======================================================
+	start Davidon-Fletcher-Powell procedure ... 
+Function Value = 14627.34	11865.34	2762.00
+Gradiant [1] =    -0.00	theta[1] = 0.65876232
+Gradiant [2] =     0.00	theta[2] = 0.44594035
+Gradiant [3] =    -0.00	theta[3] = 0.18579720
+Gradiant [4] =     0.00	theta[4] = 1.27632821
+Gradiant [5] =     0.00	theta[5] = 1.06239239
+Gradiant [6] =    -0.04	theta[6] = 0.08516983
+Gradiant [7] =     0.01	theta[7] = 1.47329169
+Gradiant [8] =    -0.00	theta[8] = 0.75540731
+
+	start linear search along the specified direction ...
+Function Value = 14627.62170	11866.66	2760.96
+Function Value = 14627.34296	11865.45	2761.90
+Function Value = 14627.34013	11865.35	2761.99
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+	Back to Davidon-Fletcher-Powell Procedure: ramda = 0.000006
+Function Value = 14627.34	11865.34	2762.00
+Gradiant [1] =     0.00	theta[1] = 0.65876233
+Gradiant [2] =    -0.00	theta[2] = 0.44594035
+Gradiant [3] =    -0.00	theta[3] = 0.18579720
+Gradiant [4] =    -0.00	theta[4] = 1.27632821
+Gradiant [5] =    -0.00	theta[5] = 1.06239238
+Gradiant [6] =    -0.00	theta[6] = 0.08517005
+Gradiant [7] =     0.00	theta[7] = 1.47329166
+Gradiant [8] =    -0.00	theta[8] = 0.75540732
+
+	start linear search along the specified direction ...
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+	Back to Davidon-Fletcher-Powell Procedure: ramda = 0.000017
+Function Value = 14627.34	11865.34	2762.00
+Gradiant [1] =     0.00	theta[1] = 0.65876232
+Gradiant [2] =     0.00	theta[2] = 0.44594035
+Gradiant [3] =    -0.00	theta[3] = 0.18579720
+Gradiant [4] =     0.00	theta[4] = 1.27632821
+Gradiant [5] =     0.00	theta[5] = 1.06239240
+Gradiant [6] =    -0.00	theta[6] = 0.08517005
+Gradiant [7] =     0.00	theta[7] = 1.47329166
+Gradiant [8] =     0.00	theta[8] = 0.75540732
+
+	start linear search along the specified direction ...
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+	Back to Davidon-Fletcher-Powell Procedure: ramda = 0.000017
+Function Value = 14627.34	11865.34	2762.00
+Gradiant [1] =     0.00	theta[1] = 0.65876232
+Gradiant [2] =     0.00	theta[2] = 0.44594034
+Gradiant [3] =    -0.00	theta[3] = 0.18579720
+Gradiant [4] =     0.00	theta[4] = 1.27632821
+Gradiant [5] =     0.00	theta[5] = 1.06239240
+Gradiant [6] =    -0.00	theta[6] = 0.08517005
+Gradiant [7] =     0.00	theta[7] = 1.47329166
+Gradiant [8] =     0.00	theta[8] = 0.75540732
+
+	start linear search along the specified direction ...
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+Function Value = 14627.34010	11865.34	2762.00
+	Back to Davidon-Fletcher-Powell Procedure: ramda = 0.000000
+Function Value = 14627.34	11865.34	2762.00
+Gradiant [1] =     0.00	theta[1] = 0.65876232
+Gradiant [2] =     0.00	theta[2] = 0.44594034
+Gradiant [3] =    -0.00	theta[3] = 0.18579720
+Gradiant [4] =     0.00	theta[4] = 1.27632821
+Gradiant [5] =     0.00	theta[5] = 1.06239240
+Gradiant [6] =    -0.00	theta[6] = 0.08517005
+Gradiant [7] =     0.00	theta[7] = 1.47329166
+Gradiant [8] =     0.00	theta[8] = 0.75540732
+loglikelihood = -14627.34010	AIC = 29270.68020
+theta[1] = 0.43396779	 gradient[1] =   0.0001
+theta[2] = 0.19886279	 gradient[2] =   0.0003
+theta[3] = 0.03452060	 gradient[3] =  -0.0002
+theta[4] = 1.62901369	 gradient[4] =   0.0002
+theta[5] = 1.12867760	 gradient[5] =   0.0005
+theta[6] = 0.00725394	 gradient[6] =  -0.0001
+theta[7] = 2.17058831	 gradient[7] =   0.0000
+theta[8] = 0.57064022	 gradient[8] =   0.0000
+======================================================
+MLE:
+[1] 0.433967794 0.198862790 0.034520601 1.629013688 1.128677604 0.007253937 2.170588305 0.570640224
+======================================================
+
+
+
+
+
