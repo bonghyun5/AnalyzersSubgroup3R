@@ -1,0 +1,300 @@
+>> RunAftSimulator
+
+NumOfPointSourceQuakes =
+
+       27740
+
+
+NumOfPointSourceParents =
+
+        4411
+
+
+NumOfPlanarSourceQuakes =
+
+     5
+
+
+TotalNumOfPlanarSourceAfts =
+
+        6923
+
+
+NumOfNewAfts =
+
+       17837
+
+
+NumOfNewActiveAfts =
+
+    85
+
+
+NumOfIterations =
+
+     1
+
+
+NumOfNewActiveQuakes =
+
+    85
+
+
+NumOfPointSourceQuakes =
+
+    85
+
+
+NumOfPointSourceParents =
+
+    14
+
+
+TotalNumOfPointSourceAfts =
+
+    16
+
+
+NumOfPointSourceParents =
+
+    14
+
+
+NumOfPlanarSourceQuakes =
+
+     0
+
+
+NumOfNewAfts =
+
+    16
+
+
+NumOfNewActiveAfts =
+
+    14
+
+
+NumOfIterations =
+
+     2
+
+
+NumOfNewActiveQuakes =
+
+    14
+
+
+NumOfPointSourceQuakes =
+
+    14
+
+
+NumOfPointSourceParents =
+
+     2
+
+
+TotalNumOfPointSourceAfts =
+
+     2
+
+
+NumOfPointSourceParents =
+
+     2
+
+
+NumOfPlanarSourceQuakes =
+
+     0
+
+
+NumOfNewAfts =
+
+     2
+
+
+NumOfNewActiveAfts =
+
+     2
+
+
+NumOfIterations =
+
+     3
+
+
+NumOfNewActiveQuakes =
+
+     2
+
+
+NumOfPointSourceQuakes =
+
+     2
+
+
+NumOfPointSourceParents =
+
+     2
+
+
+TotalNumOfPointSourceAfts =
+
+    12
+
+
+NumOfPointSourceParents =
+
+     2
+
+
+NumOfPlanarSourceQuakes =
+
+     0
+
+
+NumOfNewAfts =
+
+    12
+
+
+NumOfNewActiveAfts =
+
+    12
+
+
+NumOfIterations =
+
+     4
+
+
+NumOfNewActiveQuakes =
+
+    12
+
+
+NumOfPointSourceQuakes =
+
+    12
+
+
+NumOfPointSourceParents =
+
+     3
+
+
+TotalNumOfPointSourceAfts =
+
+     9
+
+
+NumOfPointSourceParents =
+
+     3
+
+
+NumOfPlanarSourceQuakes =
+
+     0
+
+
+NumOfNewAfts =
+
+     9
+
+
+NumOfNewActiveAfts =
+
+     8
+
+
+NumOfIterations =
+
+     5
+
+
+NumOfNewActiveQuakes =
+
+     8
+
+
+NumOfPointSourceQuakes =
+
+     8
+
+
+NumOfPointSourceParents =
+
+     3
+
+
+TotalNumOfPointSourceAfts =
+
+     3
+
+
+NumOfPointSourceParents =
+
+     3
+
+
+NumOfPlanarSourceQuakes =
+
+     0
+
+
+NumOfNewAfts =
+
+     3
+
+
+NumOfNewActiveAfts =
+
+     2
+
+
+NumOfIterations =
+
+     6
+
+
+NumOfNewActiveQuakes =
+
+     2
+
+
+NumOfPointSourceQuakes =
+
+     2
+
+
+NumOfPlanarSourceQuakes =
+
+     0
+
+
+NumOfNewAfts =
+
+     0
+
+
+NumOfIterations =
+
+     7
+
+
+NumOfNewActiveQuakes =
+
+     0
+
+
+SizeOfReportCat =
+
+   316    12
+
+
+MaxQuakeInReport =
+
+    4.7704
