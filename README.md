@@ -3,7 +3,7 @@
 
 <a href = "https://github.com/aparker92">Alyssa Parker</a> 
 
-<a href = "https://github.com/amx01">Alice Man</a> 
+<a href = "https://github.com/amx01">Yee Tung (Alice) Man</a> 
 
 <a href = "https://github.com/qi-zhang">Qi Zhang</a> 
 
